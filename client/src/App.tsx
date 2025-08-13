@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello World React + Node.js</h1>
+      <h1>Hello Universe React + Node.js</h1>
       <p>Backend says: {message || 'Loading...'}</p>
     </div>
   );
