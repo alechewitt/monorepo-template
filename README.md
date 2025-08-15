@@ -1,6 +1,6 @@
 # Monorepo Template - React + Node.js
 
-A production-ready monorepo template that combines a React frontend with a Node.js/Express backend in a single repository. This template is optimized for easy deployment to Heroku while maintaining a clean development experience.
+A monorepo template that combines a React frontend with a Node.js/Express backend in a single repository. This template is optimized for easy and fast deployment to Heroku while maintaining a clean development experience.
 
 Demo: [https://cryptic-atoll-43628-af717b411752.herokuapp.com/](https://cryptic-atoll-43628-af717b411752.herokuapp.com/)
 
